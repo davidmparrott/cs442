@@ -1,0 +1,28 @@
+David Parrott
+CS 442 Fall 2014
+HW1
+
+11239947
+david.m.parrott@wsu.edu
+
+Developed in consultation with Ryan Slyter, Zacharias Shufflebarger, and Brett Carter (shout out to Noah
+who was able to point out two incorrect inequalities but had such a very different approach to mine
+that it was nearly impossible for him to help me trouble shoot)
+
+description:
+Polyfill takes vertex information for a polygon along with a fill function and correctly fills the
+interior of the polygon using the even odd rule for determining interior and exterior vertices.
+
+file list:
+polyfill.js
+README
+polyteststuff.zip
+
+to execute:
+extract the contents from the main archive and then also extract the contents on polyteststuff.zip
+
+ensure all the files are contained in the same directory.
+
+perl test.pl
+
+perl script will execute and store results in a directory named results

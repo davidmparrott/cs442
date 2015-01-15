@@ -1,0 +1,24 @@
+David Parrott
+11239947
+CS 422 Fall 2014
+Reflections and Shadows
+
+description:
+Renders a sphere over a square plane with both reflections and shadows
+
+to compile:
+extract contents of archive into any subdirectory
+
+to execute:
+open torus.html in Firefox
+
+Many other modern browsers default security settings will forbid cross domain
+images from loading
+
+file list:
+README
+torus.html
+torus.js
+matrix.js
+venus.jpg
+brick.png

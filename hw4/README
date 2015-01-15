@@ -1,0 +1,25 @@
+David Parrott
+david.m.parrott@wsu.edu
+11239947
+CS 442 Fall 2014
+Superquadric
+
+description:
+Renders a superellipsoid and puts a brick texture onto it
+
+to execute:
+In order to avoid some peculiarities with Safari and Chrome dealing
+with cross domain images please open torus.html in Firefox
+
+file list:
+matrix.js
+torus.js
+torus.html
+brick.png
+README
+
+authors:
+David Parrott
+Brett Carter
+Zacharias Shufflebarger
+Wayne Cochran

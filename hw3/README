@@ -1,0 +1,20 @@
+David Parrott
+11239947
+david.m.parrott@wsu.edu
+CS 442 Fall 2014 
+Toroidal Spiral
+
+to execute:
+open torus.html in any modern browser
+
+file list:
+torus.html
+torus.js
+matrix.js
+
+description:
+A toroidal spiral is generated with dimensions that can be manipulated by
+changing the values declared in torus.js on lines 43-49 and somewhat by changing torus.N and torus.M in torus.html lines 175 and 176. 
+
+The function createGeometry is called by torus.html which populates the array
+with appropriate vertex information. 

@@ -1,0 +1,25 @@
+David Parrott
+david.m.parrott@wsu.edu
+11239947
+CS 442 Fall 2014
+Program 2
+Dancing Robot via Heirarchical Modeling
+
+file lisT:
+hw2.html
+matrix.js
+
+to run:
+open hw2.html in any modern web browser. Be certain that matrix.js is in the
+same directory as hw2.html
+
+description:
+Using heirarchical modeling, a robot is created with JavaScript and WebGL
+
+The robot is created from the manipulation of 4 polygons:
+A triangle, a rectangle, a circle and a 4-sided polygon used to create
+claws. 
+
+Cirles represent joints, rectangles are used for the torso, head and arm/leg segments, claw pieces are used as "fingers", triangles are feet. 
+
+To begin animation click inside the canvas in the web browser. Click to stop animation. 
